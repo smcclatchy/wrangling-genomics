@@ -23,13 +23,13 @@ use a variety of bioinformatic tools with confidence and greatly enhance your re
 
 > ## Prerequisites
 >
-> This lesson assumes a working understanding of the bash shell. If you haven't already completed the [Shell Genomics](http://www.datacarpentry.org/shell-genomics/) lesson, and aren't familiar with the bash shell, please review those materials
+> This lesson assumes a working understanding of the bash shell. If you haven't already completed the [Shell Genomics](https://smcclatchy.github.io/shell-genomics/) lesson, and aren't familiar with the bash shell, please review those materials
 > before starting this lesson.
 >
 > This lesson also assumes some familiarity with biological concepts, including the structure of DNA, nucleotide abbreviations, and the 
 > concept of genomic variation within a population. 
 >
-> This lesson uses data hosted on an Amazon Machine Instance (AMI). Workshop participants will be given information on how
-> to log-in to the AMI during the workshop. Learners using these materials for self-directed study will need to set up their own
-> AMI. Information on setting up an AMI and accessing the required data is provided on the [Genomics Workshop setup page](http://www.datacarpentry.org/genomics-workshop/setup.html).
+> This lesson uses data hosted on the JAX computing cluster and is only open to JAX employees. Workshop participants will be given information on how
+> to log-in to the cluster during the workshop. Learners using these materials for self-directed study will need to request their own account on the 
+> the cluster from the [JAX IT Help Desk](https://jax.service-now.com/jax).
 {: .prereq}
